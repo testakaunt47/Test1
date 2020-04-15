@@ -9,3 +9,5 @@ $total = addNum(2, 3);
 print $total;
 
 //テスト
+
+//テスト２
