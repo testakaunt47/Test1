@@ -7,3 +7,5 @@ function addNum($a, $b) {
 // 戻り値を$totalに格納
 $total = addNum(2, 3);
 print $total;
+
+//テスト
